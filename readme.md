@@ -21,7 +21,6 @@ In the past year our company has been in a devops revolution, we have setup GitL
 - How pagination combined with queries can be used to create a table with only the latest result
 - How to use and setup webhooks
 - Basic understanding of using Private and Foreign keys in Tables
-- How pagination combined with queries can be used to create a table with only the latest result
 - We learned how to use Postman to test our API calls
 
 ### What challenges you faced
