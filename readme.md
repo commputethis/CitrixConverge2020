@@ -14,7 +14,7 @@ IT Operational Efficiencies using Microapps + Ansible Tower + Powershell + GitLa
 
 In the past year our company has been in a devops revolution, we have setup GitLab and Ansible Tower to design and implement scripts that handle mundane, and tedious tasks. With Microapps we were able to create a one stop shop for not only our devops needs, but the needs of our frontline staff. Microapps integrations will enable our staff to provide business continuity and growth. Now that we have an understanding of how Microapps work, we will be adding additional tools for devops, business continuity and to make our frontline staff’s jobs more efficient.
 
-### What you have learned
+### What we have learned
 
 - Learned some basics of JSON
 - Fundamental knowledge of REST APIs
@@ -23,7 +23,7 @@ In the past year our company has been in a devops revolution, we have setup GitL
 - Basic understanding of using Private and Foreign keys in Tables
 - We learned how to use Postman to test our API calls
 
-### What challenges you faced
+### What challenges we faced
 
 - Ran into SSL cert issues where intermediate CA certs were missing. We overcame this by uploading the full certificate bundle to the server.
 - Ran into issue where Citrix RSS Feeds template does not support on-prem feeds. We may look at creating our own microapp for this vs using the template.
